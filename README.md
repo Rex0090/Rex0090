@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hi, I'm Rex
 
-<!--
-**Rex0090/Rex0090** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 **Forensic Troubleshooter | Linux & Hardware Modder | Automation Architect**
 
-Here are some ideas to get you started:
+I thrive on breaking down complex systems—whether it’s Linux environments, automotive electronics, or consumer hardware—and rebuilding them with modular overlays, expressive feedback, and timestamped logs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 What I’m Working On
+- Architecting **validator overlays** for KDE Plasma 6 on Kali Linux  
+- Integrating **IR remote control** into modular automation flows  
+- Reverse-engineering **battery meters and LED strips** for modular repurposing  
+- Building **cross-platform automation scripts** with expressive feedback  
+
+---
+
+## 🛠️ Tech Toolbox
+- **Languages**: Python, Bash, C (kernel modules)  
+- **Platforms**: Linux (Kali, Debian, Arch), Android, Automotive ECUs  
+- **Specialties**: Kernel patching, forensic recovery, modular automation, hardware reverse-engineering  
+
+---
+
+## 📂 Featured Projects
+- 🔹 [Validator Overlay Scripts](https://github.com/your-username/validator-overlays)  
+- 🔹 [Battery Meter Reverse-Engineering](https://github.com/your-username/battery-meter)  
+- 🔹 [KDE Plasma Automation](https://github.com/your-username/plasma-automation)  
+
+---
+
+## 📊 GitHub Stats
+![Rex's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+---
+
+## 💡 Support My Work
+If you find my projects useful:
+- ⭐ Star the repos  
+- 🐙 Sponsor me via [GitHub Sponsors](https://github.com/sponsors/your-username)  
+- Share feedback and ideas in Issues  
