@@ -22,19 +22,20 @@ I thrive on breaking down complex systems—whether it’s Linux environments, a
 ---
 
 ## 📂 Featured Projects
-- 🔹 [Validator Overlay Scripts](https://github.com/your-username/validator-overlays)  
-- 🔹 [Battery Meter Reverse-Engineering](https://github.com/your-username/battery-meter)  
-- 🔹 [KDE Plasma Automation](https://github.com/your-username/plasma-automation)  
+- 🔹 [Validator Overlay Scripts](https://github.com/Rex0090/validator-overlays)  
+- 🔹 [Battery Meter Reverse-Engineering](https://github.com/Rex0090/battery-meter)  
+- 🔹 [KDE Plasma Automation](https://github.com/Rex0090/plasma-automation)  
 
 ---
 
 ## 📊 GitHub Stats
-![Rex's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Rex's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rex0090&show_icons=true&theme=radical&cache_seconds=3600)
 
 ---
 
 ## 💡 Support My Work
 If you find my projects useful:
 - ⭐ Star the repos  
-- 🐙 Sponsor me via [GitHub Sponsors](https://github.com/sponsors/your-username)  
+- 🐙 Sponsor me via [GitHub Sponsors](https://github.com/sponsors/Rex0090)  
 - Share feedback and ideas in Issues  
+
